@@ -4,3 +4,9 @@ D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.tes
 D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfoInputs.cache
 D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfo.cs
 D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.csproj.CoreCompileInputs.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.csproj.AssemblyReference.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfoInputs.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfo.cs
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.csproj.CoreCompileInputs.cache

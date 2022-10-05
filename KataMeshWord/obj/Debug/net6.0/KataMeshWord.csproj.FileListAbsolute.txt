@@ -10,3 +10,15 @@ D:\Emil\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.dll
 D:\Emil\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\refint\KataMeshWord.dll
 D:\Emil\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.pdb
 D:\Emil\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\ref\KataMeshWord.dll
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\bin\Debug\net6.0\KataMeshWord.deps.json
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\bin\Debug\net6.0\KataMeshWord.dll
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\bin\Debug\net6.0\KataMeshWord.pdb
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.csproj.AssemblyReference.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.AssemblyInfoInputs.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.AssemblyInfo.cs
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.csproj.CoreCompileInputs.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.dll
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\refint\KataMeshWord.dll
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\KataMeshWord.pdb
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\KataMeshWord\obj\Debug\net6.0\ref\KataMeshWord.dll

@@ -1,0 +1,5 @@
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\obj\Debug\net6.0\tendencias-code-dojo.csproj.AssemblyReference.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\obj\Debug\net6.0\tendencias-code-dojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\obj\Debug\net6.0\tendencias-code-dojo.AssemblyInfoInputs.cache
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\obj\Debug\net6.0\tendencias-code-dojo.AssemblyInfo.cs
+C:\Users\jcont\Desktop\Tendencias\codindojo\tendencias-code-dojo\obj\Debug\net6.0\tendencias-code-dojo.csproj.CoreCompileInputs.cache

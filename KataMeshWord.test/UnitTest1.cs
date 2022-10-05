@@ -1,3 +1,4 @@
+using Xunit;
 namespace KataMeshWord.test;
 
 public class UnitTest1
@@ -7,6 +8,6 @@ public class UnitTest1
     {
         MeshWord meshWord = new MeshWord();
         string result = meshWord.MergeWords("casa", "hola");
-        Assert.That(result, Is.EqualTo("chaoslaa"));
+        Assert.Equal("chaoslaa", result);
     }
 }
