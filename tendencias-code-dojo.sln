@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataMeshWord", "KataMeshWord\KataMeshWord.csproj", "{7A331CFA-AEDC-4EE2-8F03-D28A91045E10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataMeshWord.test", "KataMeshWord.test\KataMeshWord.test.csproj", "{0230EE8B-D913-4A17-AC8D-982D9ABE11EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7A331CFA-AEDC-4EE2-8F03-D28A91045E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A331CFA-AEDC-4EE2-8F03-D28A91045E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A331CFA-AEDC-4EE2-8F03-D28A91045E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0230EE8B-D913-4A17-AC8D-982D9ABE11EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0230EE8B-D913-4A17-AC8D-982D9ABE11EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0230EE8B-D913-4A17-AC8D-982D9ABE11EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0230EE8B-D913-4A17-AC8D-982D9ABE11EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

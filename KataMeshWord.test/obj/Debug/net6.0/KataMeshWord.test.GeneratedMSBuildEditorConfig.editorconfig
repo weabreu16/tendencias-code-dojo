@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KataMeshWord.test
+build_property.ProjectDir = c:\Users\olial\OneDrive\Escritorio\tendencias en el desarrollo de software\kata-words\tendencias-code-dojo\KataMeshWord.test\
