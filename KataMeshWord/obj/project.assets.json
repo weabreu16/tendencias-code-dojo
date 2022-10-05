@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jcont\\.nuget\\packages\\": {}
+    "C:\\Users\\WILLIAM ABREU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcont\\Desktop\\Tendencias\\codindojo\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj",
+      "projectUniqueName": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj",
       "projectName": "KataMeshWord",
-      "projectPath": "C:\\Users\\jcont\\Desktop\\Tendencias\\codindojo\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj",
-      "packagesPath": "C:\\Users\\jcont\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcont\\Desktop\\Tendencias\\codindojo\\tendencias-code-dojo\\KataMeshWord\\obj\\",
+      "projectPath": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj",
+      "packagesPath": "C:\\Users\\WILLIAM ABREU\\.nuget\\packages\\",
+      "outputPath": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jcont\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\WILLIAM ABREU\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

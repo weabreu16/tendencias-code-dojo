@@ -1,0 +1,6 @@
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.csproj.AssemblyReference.cache
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfoInputs.cache
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.AssemblyInfo.cs
+D:\Emil\tendencias-code-dojo\KataMeshWord.test\obj\Debug\net6.0\KataMeshWord.test.csproj.CoreCompileInputs.cache

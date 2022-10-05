@@ -1802,6 +1802,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "KataMeshWord/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KataMeshWord.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KataMeshWord.dll": {}
+        }
       }
     }
   },
@@ -6098,10 +6108,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "KataMeshWord/1.0.0": {
+      "type": "project",
+      "path": "../KataMeshWord/KataMeshWord.csproj",
+      "msbuildProject": "../KataMeshWord/KataMeshWord.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "KataMeshWord >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
@@ -6109,19 +6125,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\olial\\.nuget\\packages\\": {}
+    "C:\\Users\\WILLIAM ABREU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olial\\OneDrive\\Escritorio\\tendencias en el desarrollo de software\\kata-words\\tendencias-code-dojo\\KataMeshWord.test\\KataMeshWord.test.csproj",
+      "projectUniqueName": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord.test\\KataMeshWord.test.csproj",
       "projectName": "KataMeshWord.test",
-      "projectPath": "C:\\Users\\olial\\OneDrive\\Escritorio\\tendencias en el desarrollo de software\\kata-words\\tendencias-code-dojo\\KataMeshWord.test\\KataMeshWord.test.csproj",
-      "packagesPath": "C:\\Users\\olial\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olial\\OneDrive\\Escritorio\\tendencias en el desarrollo de software\\kata-words\\tendencias-code-dojo\\KataMeshWord.test\\obj\\",
+      "projectPath": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord.test\\KataMeshWord.test.csproj",
+      "packagesPath": "C:\\Users\\WILLIAM ABREU\\.nuget\\packages\\",
+      "outputPath": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord.test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\olial\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\WILLIAM ABREU\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -6132,7 +6148,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Emil\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj": {
+              "projectPath": "D:\\Emil\\tendencias-code-dojo\\KataMeshWord\\KataMeshWord.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -6182,7 +6202,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
